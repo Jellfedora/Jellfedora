@@ -1,16 +1,18 @@
-### Hi there 👋
+### Bonjour Vous 👋
+Je suis un développeur Web :fr: vivant actuellement près de La Rochelle et bientôt sur Toulouse.
+Aprés deux formations dans le développement et la conception web et un an en entreprise en tant que développeur full stack j'ai passé et obtenu le diplôme de Concepteur Développeur d'Applications!
 
-<!--
-**Jellfedora/Jellfedora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amoureux du Front-end :blue_heart: j'ai choisi de me spécialiser sur la librairie React et la majorité de mes projets personnels repose sur cette technologie.
+Néanmoins j'ai aussi plaisir à mettre les mains dans du back-end et il m'arrive réguliérement de travailler avec Symfony ou Node Js et j'ai aussi beaucoup manipulé Cakephp et Codeigniter.
 
-Here are some ideas to get you started:
+#### Social 🔭
+Vous pouvez me retrouver et me contacter sur les réseaux LinkedIn et Twitter!
+* :link: [Twitter](https://twitter.com/Jellfedora7) 
+* :link: [LinkedIn](https://www.linkedin.com/in/julien-lecointe/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Nouveau :tada: :tada: :tada:
+Je viens de réaliser et de mettre en ligne mon site personnel!
+Vous pouvez le retrouver à l'adresse suivante:
+[https://www.linkedin.com/in/julien-lecointe/](https://www.linkedin.com/in/julien-lecointe/) 
+
+Et n'hésitez pas à me faire un retour sur les réseaux!
