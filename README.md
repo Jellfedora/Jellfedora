@@ -13,6 +13,6 @@ Vous pouvez me retrouver et me contacter sur les réseaux LinkedIn et Twitter!
 #### Nouveau :tada: :tada: :tada:
 Je viens de réaliser et de mettre en ligne mon site personnel!
 Vous pouvez le retrouver à l'adresse suivante:
-[https://www.linkedin.com/in/julien-lecointe/](https://www.linkedin.com/in/julien-lecointe/) 
+[https://devodyssey.fr/](https://devodyssey.fr/) 
 
 Et n'hésitez pas à me faire un retour sur les réseaux!
