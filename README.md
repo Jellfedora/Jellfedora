@@ -1,5 +1,5 @@
 ### Bonjour Vous 👋
-Je suis un développeur Web :fr: vivant actuellement près de La Rochelle et bientôt sur Toulouse.
+Je suis un développeur Web :fr: habitant le département du Tarn.
 Aprés deux formations dans le développement et la conception web et un an en entreprise en tant que développeur full stack j'ai passé et obtenu le diplôme de Concepteur Développeur d'Applications!
 
 Amoureux du Front-end :blue_heart: j'ai choisi de me spécialiser sur la librairie React et la majorité de mes projets personnels repose sur cette technologie.
